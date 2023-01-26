@@ -1,0 +1,20 @@
+{
+  "name": "mobile-shop",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000H\u0000P\u0000-\u0000E\u0000c\u0000o\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qurbaniemrah/PHP-Ecom.git"
+  },
+  "author": "Qurbani Amrakhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qurbaniemrah/PHP-Ecom/issues"
+  },
+  "homepage": "https://github.com/qurbaniemrah/PHP-Ecom#readme"
+}
